@@ -4,6 +4,7 @@ package student;
 
 import java.util.Scanner;
 
+// Author:Justin
 
 public class ReverseWord {
     public static void main(String[] args)
