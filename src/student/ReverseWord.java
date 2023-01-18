@@ -5,6 +5,7 @@ package student;
 import java.util.Scanner;
 
 // Author:Justin
+// whatever I didnt see
 
 public class ReverseWord {
     public static void main(String[] args)
