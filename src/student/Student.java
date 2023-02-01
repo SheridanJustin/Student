@@ -4,6 +4,15 @@ package student;
 public class Student {
     private String studentId;
     private String StudentName;
+    private String StudentAddress;
+
+    public String getStudentAddress() {
+        return StudentAddress;
+    }
+
+    public void setStudentAddress(String StudentAddress) {
+        this.StudentAddress = StudentAddress;
+    }
 
     public Student(String studentId, String StudentName) {
         this.studentId = studentId;
