@@ -4,7 +4,7 @@
  */
 package student;
 
-
+// added bunch of sruff
 public class StudentList {
     public static void main(String[] args)
     {
