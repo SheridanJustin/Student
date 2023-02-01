@@ -6,6 +6,8 @@ import java.util.Scanner;
 
 // Author:Justin
 // added command for Fetch+merge
+// added command for Fetch+merge again
+
 public class ReverseWord {
     public static void main(String[] args)
     {
